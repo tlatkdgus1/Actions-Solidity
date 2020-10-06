@@ -1,2 +1,1 @@
-# Actions-Solidity
-Solidity CI Using Github Actions
+# solidity-actions
