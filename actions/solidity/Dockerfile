@@ -1,3 +1,5 @@
+# if you want CI 0.5 solidity
+# FROM ethereum/solc:0.5.14-alpine 
 FROM ethereum/solc:0.6.12-alpine
 
 LABEL "com.github.actions.name"="Solidity 0.6 Compile"
